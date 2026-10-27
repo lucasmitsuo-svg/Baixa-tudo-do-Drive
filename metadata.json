@@ -1,0 +1,6 @@
+{
+  "name": "DriveFolderDownloader",
+  "description": "Baixe arquivos e pastas do Google Drive diretamente para o seu computador organizados por pasta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
